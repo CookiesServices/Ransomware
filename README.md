@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Callumgm/Ransomware">
-    <img src="./logo.png" alt="Logo" width="200" height="190">
+    <img src="./logo.png" alt="Logo" width="650" height="400">
   </a>
 
   <h1 align="center">Cookies Ransomware</h1>
